@@ -61,8 +61,9 @@
 
 13. Создал ветку для отчёта.
 
-![(рис 13)][./screenshots/13.jpg]
+![(рис 13)](./screenshots/13.jpg)
 
+sh ``` 
 ## Лог команд 
 
    83  git clone https://github.com/pbsav/LR6.git
@@ -92,6 +93,7 @@
   107  git branch myreport
   108  git checkout myreport
   109  git push https://github.com/pbsav/LR6.git
+```
 
 ## История операций
 
