@@ -63,7 +63,7 @@
 
 ![(рис 13)](./screenshots/13.jpg)
 
-sh ``` 
+```sh 
 ## Лог команд 
 
    83  git clone https://github.com/pbsav/LR6.git
