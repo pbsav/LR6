@@ -67,6 +67,9 @@
   108  git checkout myreport
   109  git push https://github.com/pbsav/LR6.git
 
+## История операций
+
+$ git log --pretty="%h %ad %cn %s"
 
 ## Вывод
 
